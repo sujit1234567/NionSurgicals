@@ -22,6 +22,7 @@ import com.product.pojo.FeedBack;
 
 /**
  * Servlet implementation class Feedback
+Jai shree ram
  */
 @WebServlet("/Feedback")
 public class Feedback extends HttpServlet {
